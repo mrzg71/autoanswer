@@ -1,3 +1,16 @@
+//此版本经过借用两个大佬的代码，进行了部分修改，仍是无法完美答题，部分答题识别错误。以下是其中一个大佬出处，另一个大佬已经忘记出处在哪了，在此说声：“大佬，对不起，希望你别生气”
+/*代码原作者
+ * @Description: Auto.js xxqg-helper https://github.com/ivanwhaf/xxqg-helper
+ * @version: 3.1.3
+ * @Author: Ivan
+ * @Date: 2020-6-10
+ */
+/*修改版
+ * @Description: Auto.js AiQiangGuo 1+(12)+(6+6)+5+6+2+1+(1+1)+1=42分
+ * @version: 2.19-2020.12
+ * @Author: fengwuying
+ * @Date: 2020-12
+ */
 var ZiXingTi = "选择词语的正确词形。"; //字形题
 var DuYinTi = "选择正确的读音。"; //读音题 20201211
 var ErShiSiShi = "下列不属于二十四史的是。"; //二十四史
