@@ -31,7 +31,7 @@ while (true) {
 while (true) {
     if (text("下一题").exists()) { //专项答题
         text("下一题").click();
-        sleep(200); //随机延时0.5-1秒
+        sleep(200);
     }
     if (text("icon/24/icon_Y_shuaxin").exists()) {
         log("网络错误")
