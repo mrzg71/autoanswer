@@ -21,7 +21,7 @@ var customize_flag = false; //自定义运行标志
 // main
 while (true) {
     if (text("1 /5").findOne(20)) {
-        break;
+        break
     }
     if (text("查看提示").findOne(20)) {
         break;
