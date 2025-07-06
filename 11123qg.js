@@ -26,7 +26,7 @@ while (true) {
     if (text("查看提示").findOne(20)) {
         break;
     }
-    sleep(100)
+    sleep(100);
 }
 while (true) {
     if (text("下一题").exists()) { //专项答题
