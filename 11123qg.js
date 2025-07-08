@@ -39,7 +39,7 @@ while (true) {
     }
     if (textStartsWith("本次答对题目数").exists()) {
         log("答完了")
-        break；
+        break;
     }
     dailyQuestionLoop()
     sleep(1000)
