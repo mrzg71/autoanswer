@@ -42,7 +42,7 @@ while (true) {
         break;
     }
     dailyQuestionLoop()
-    sleep(1000)
+    sleep(1000);
 }
 // huoquwenben?“风声雨声
 // 22:20:05.738/D: nihao nihao |3
