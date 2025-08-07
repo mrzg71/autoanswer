@@ -35,7 +35,7 @@ while (true) {
         log("休息2");
     }
     if (text("icon/24/icon_Y_shuaxin").exists()) {
-        log("网络错误")
+        log("网络错误");
         sleep(500)
         break;
     }
