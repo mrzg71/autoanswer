@@ -22,7 +22,7 @@ var customize_flag = false; //自定义运行标志
 while (true) {
     if (text("1 /5").findOne(20)) {
         break;
-    }
+    };
     if (text("查看提示").findOne(20)) {
         break;
     }
