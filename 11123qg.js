@@ -36,7 +36,7 @@ while (true) {
     }
     if (text("icon/24/icon_Y_shuaxin").exists()) {
         log("网络错误");
-        sleep(500)
+        sleep(500);
         break;
     }
     if (textStartsWith("本次答对题目数").exists()) {
