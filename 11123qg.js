@@ -41,7 +41,7 @@ while (true) {
     }
     if (textStartsWith("本次答对题目数").exists()) {
         log("答完了");
-        sleep(100)
+        sleep(100);
         break;
     }
     dailyQuestionLoop()
