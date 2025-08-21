@@ -44,7 +44,7 @@ while (true) {
         sleep(100);
         break;
     }
-    dailyQuestionLoop()
+    dailyQuestionLoop();
     sleep(1000);
 }
 // huoquwenben?“风声雨声
