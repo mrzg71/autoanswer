@@ -197,7 +197,7 @@ function extractMissingWords对比错字(questionArray, tipsStr, sentence) {
 //             if (isNaN(blankLength)) {
 //                 console.log(`无法解析空缺长度，当前元素: ${currentItem}`);
 //                 continue;
-//             }
+//             };
 //             // 获取下一个非空缺元素作为关键字，也就是“正规化”的正
 //             const keyword = questionArray[i + 1];
 //             // 在提示字符串中查找关键字的起始索引
