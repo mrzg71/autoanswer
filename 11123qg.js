@@ -245,7 +245,7 @@ function extractMissingWords对比错字(questionArray, tipsStr, sentence) {
 //             if (!referenceText) {
 //                 console.log("参考文本为空，跳过此次提取");
 //                 continue;
-//             }
+//             };
 
 //             // 滑动窗口匹配，计算字符相似度
 //             let bestMatchIndex = -1;
