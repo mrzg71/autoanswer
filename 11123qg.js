@@ -101,7 +101,7 @@ function extractMissingWords对比错字(questionArray, tipsStr, sentence) {
         if (!/[a-zA-Z0-9\u4e00-\u9fa5]/.test(rawSentence[rawPos])) {
             rawPos++;
             continue;
-        }
+        };
         if (rawSentence[rawPos] !== correctWord[correctPointer]) {
             missingWords.push(rawSentence[rawPos]);
             missingWords.push(correctWord[correctPointer]);
