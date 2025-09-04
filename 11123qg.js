@@ -11,7 +11,7 @@
  * @Author: fengwuying
  * @Date: 2020-12
  */
-var ZiXingTi = "选择词语的正确词形。"; ///字形题
+var ZiXingTi = "选择词语的正确词形。"; ////字形题
 var DuYinTi = "选择正确的读音。"; //读音题 20201211
 var ErShiSiShi = "下列不属于二十四史的是。"; //二十四史
 var customize_flag = false; //自定义运行标志
